@@ -1,0 +1,13 @@
+.idea/
+build
+nodu_modules
+npm-debug.log
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
